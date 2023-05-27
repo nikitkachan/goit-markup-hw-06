@@ -869,7 +869,7 @@ body {
   margin-right: 8px;
   width: 16px;
   height: 16px;
-  border: 1px solid rgba(46, 47, 66, 0.2);
+  border: 1px solid #2e2f42;
   border-radius: 2px;
   display: inline-flex;
   align-items: center;
@@ -882,8 +882,8 @@ body {
   + .terms-text
   > .custom-checkbox-icon-wrapper {
   fill: var(--primary-text-color-light);
-  background-color: var(--brand-primary-color);
-  border-color: var(--brand-primary-color);
+  background-color: var(--button-color-pressed);
+  border-color: var(--button-color-pressed);
   border: none;
 }
 
