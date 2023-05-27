@@ -883,8 +883,8 @@ body {
   > .custom-checkbox-icon-wrapper {
   fill: var(--primary-text-color-light);
   background-color: var(--button-color-pressed);
-  border-color: var(--button-color-pressed);
   border: none;
+  border-color: var(--button-color-pressed);
 }
 
 .modal-form-checkbox:focus
